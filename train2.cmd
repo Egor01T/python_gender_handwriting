@@ -1,0 +1,1 @@
+python train2.py --epochs 100 --fine_tune --model_path "model/2/gender_model.keras"

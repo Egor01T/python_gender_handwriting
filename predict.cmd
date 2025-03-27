@@ -1,0 +1,1 @@
+python predict.py --model "model/3/gender_model.keras" --image "dataset/female/16.png"

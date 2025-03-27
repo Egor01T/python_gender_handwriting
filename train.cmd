@@ -1,0 +1,1 @@
+python train.py --fine_tune --epochs 100
