@@ -1,0 +1,1 @@
+python train4.py --model_path "model/4/gender_model.keras" --data_dir "dataset" --batch_size 16 --epochs 100
